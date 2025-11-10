@@ -1,2 +1,1 @@
-# devsecops-mestrado
-Repositório para meu mestrado
+# DevSecOps para Desenvolvimento Orientado á Segurança
