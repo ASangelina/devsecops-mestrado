@@ -10,4 +10,5 @@
 - (The emergence and importance of DevSecOps: Integrating and reviewing security
 practices within the DevOps pipeline)[https://wjaets.com/content/emergence-and-importance-devsecops-integrating-and-reviewing-security-practices-within]
   - Ano 2024
-- (АНАЛИЗ МЕТОДОЛОГИЙ DEVOPS И DEVSECOPS)[]
+- (АНАЛИЗ МЕТОДОЛОГИЙ DEVOPS И DEVSECOPS)[arquivos/analiz-metodologiy-devops-i-devsecops.pdf]
+    - Ano 2021
