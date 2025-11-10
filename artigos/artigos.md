@@ -7,3 +7,6 @@
  - (Development of Secure Software Based on the New Devsecops Technology)[https://ieeexplore.ieee.org/abstract/document/10468425]
    - sem acesso, não tem muito na descrição
    - Ano 2024
+- (The emergence and importance of DevSecOps: Integrating and reviewing security
+practices within the DevOps pipeline)[https://wjaets.com/content/emergence-and-importance-devsecops-integrating-and-reviewing-security-practices-within]
+  - Ano 2024
